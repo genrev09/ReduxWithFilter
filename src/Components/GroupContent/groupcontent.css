@@ -20,24 +20,13 @@ ol li:nth-child(even){
 }
 
 .input-text{
-    width: 80%;
+    width: 70%;
 }
-
-input{
-    padding: 4px 15px 4px 0;
-    
-}
-
-#button{
-    display: inline-block;
-    background-color:#fc999b;
-    color:#ffffff;
-    border-radius: 5px;
-    text-align:center;
-    margin-top:2px;
-    padding: 5px 15px;
-    }
 
 li:hover{
     cursor: pointer;
-    }
+}
+
+.center {
+    text-align: center;
+}
